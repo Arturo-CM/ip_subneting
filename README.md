@@ -8,6 +8,10 @@ This tool requires to know an ipv4 address and the CIDR to obtain the following 
 * Maximum usable host 
 * Number of hosts that can be used on this subnet
 
+## Requirements
+```bash
+apt install bc
+```
 ## Usage:
 Assign execution permissions to the program 
 
